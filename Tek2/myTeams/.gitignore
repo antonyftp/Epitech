@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+cmake-build-default
+myteams_cli
+cmake-build-debug
+myteams_server
+*.o
+.vscode
+*.cache
